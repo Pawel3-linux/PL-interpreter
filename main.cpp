@@ -1,4 +1,5 @@
-#include <std>
+#include <cstdio>
+#include <cstdlib>
 #include <cstring>
 #include <fstream>
 typedef enum {t_int, t_short, t_char, t_string, t_float, t_double, t_bool} vartype;
