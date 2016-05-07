@@ -1,1 +1,1 @@
-g++ main.cpp -o interpretator
+g++ main.cpp -o interpreter
