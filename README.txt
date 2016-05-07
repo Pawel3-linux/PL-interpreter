@@ -2,6 +2,6 @@
 PL language interpreter:
 
 You must write:
-. compile.sh <br>
+. compile.sh
 Then:
 ./interpreter [path-to-program-to-interpretate]
