@@ -2,6 +2,7 @@
 #include <cstdlib>
 #include <cstring>
 #include <fstream>
+#include <iostream>
 using namespace std;
 typedef enum {t_int, t_short, t_char, t_string, t_float, t_double, t_bool} vartype;
 string tymcz;
